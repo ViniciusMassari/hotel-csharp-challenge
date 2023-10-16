@@ -1,0 +1,14 @@
+C:\Users\stone\OneDrive\Área de Trabalho\.NET\hotel\bin\Debug\net7.0\hotel.exe
+C:\Users\stone\OneDrive\Área de Trabalho\.NET\hotel\bin\Debug\net7.0\hotel.deps.json
+C:\Users\stone\OneDrive\Área de Trabalho\.NET\hotel\bin\Debug\net7.0\hotel.runtimeconfig.json
+C:\Users\stone\OneDrive\Área de Trabalho\.NET\hotel\bin\Debug\net7.0\hotel.dll
+C:\Users\stone\OneDrive\Área de Trabalho\.NET\hotel\bin\Debug\net7.0\hotel.pdb
+C:\Users\stone\OneDrive\Área de Trabalho\.NET\hotel\obj\Debug\net7.0\hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stone\OneDrive\Área de Trabalho\.NET\hotel\obj\Debug\net7.0\hotel.AssemblyInfoInputs.cache
+C:\Users\stone\OneDrive\Área de Trabalho\.NET\hotel\obj\Debug\net7.0\hotel.AssemblyInfo.cs
+C:\Users\stone\OneDrive\Área de Trabalho\.NET\hotel\obj\Debug\net7.0\hotel.csproj.CoreCompileInputs.cache
+C:\Users\stone\OneDrive\Área de Trabalho\.NET\hotel\obj\Debug\net7.0\hotel.dll
+C:\Users\stone\OneDrive\Área de Trabalho\.NET\hotel\obj\Debug\net7.0\refint\hotel.dll
+C:\Users\stone\OneDrive\Área de Trabalho\.NET\hotel\obj\Debug\net7.0\hotel.pdb
+C:\Users\stone\OneDrive\Área de Trabalho\.NET\hotel\obj\Debug\net7.0\hotel.genruntimeconfig.cache
+C:\Users\stone\OneDrive\Área de Trabalho\.NET\hotel\obj\Debug\net7.0\ref\hotel.dll
